@@ -9,7 +9,6 @@ interface CountdownContextData{
   isActive: boolean;
   startCountdown: () => void;
   resetCountdown: () => void;
-
 }
 
 interface CountdownProviderProps {

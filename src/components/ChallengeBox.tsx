@@ -52,7 +52,7 @@ export function ChallengeBox() {
           <strong>Finalize um ciclo para receber um novo desafio</strong>
           <p>
             <img src="icons/level-up.svg" alt="Level up" />
-            Avance de level completando os dasafios
+            Avance de level completando os desafios
           </p>
         </div>
       )}
